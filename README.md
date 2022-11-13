@@ -1,5 +1,5 @@
 # Automaton
-https://github.com/automaton-game/automaton-game.github.io
+<a src="https://github.com/automaton-game/automaton-game.github.io">https://github.com/automaton-game/automaton-game.github.io</a>
 
 ## Objetivo
 Diseñar una plataforma de aprendizaje lúdica donde poder competir programando. Para eso podemos utilizar el atiguo proyecto AutomataNET y mejorarlo:
