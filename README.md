@@ -26,7 +26,7 @@ Diseñar una plataforma de aprendizaje lúdica donde poder competir programando.
 
 - ***.NET*** Para desarrollar el backend, que en su mayoría serán WebApi. [https://dotnet.microsoft.com/]
 - ***ReactJs*** Para el FrontEnd de todo el sitio. [https://reactjs.org/]
--*** MongoDB*** Para persistencia de datos. [https://www.mongodb.com/]
+- ***MongoDB*** Para persistencia de datos. [https://www.mongodb.com/]
 - ***SignalR*** Hosteado en la nube, y servirá para notificar eventos asincrónicos en la web. [https://dotnet.microsoft.com/en-us/apps/aspnet/signalr]
 - ***Nuget Package*** Armado de packetes nuget para distribuir a los usuarios. [https://www.nuget.org/]
 - ***GitHub Actions*** Para automatizar los despliegues. [https://github.com/features/actions]
