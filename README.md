@@ -10,17 +10,13 @@ Las tareas las gestionamos en proyectos GitHub: [https://github.com/orgs/automat
 ## Casos de uso
 
 <div align="center"><a href="https://app.diagrams.net/#Hautomaton-game%2Fautomaton-game%2Fmain%2Fcomponentes.drawio.svg" target="_blank">
-
-![Alt text](./componentes.drawio.svg)
-
+<img src="./componentes.drawio.svg" />
 </a></div>
 
 ## Arquitectura de componentes
 
 <div align="center"><a href="https://app.diagrams.net/#Hautomaton-game%2Fautomaton-game%2Fmain%2Fmodulos-Components.drawio.png" target="_blank">
-
-![Alt text](./modulos-Components.drawio.png)
-
+<img src="./modulos-Components.drawio.png" />
 </a></div>
 
 ## Stack tecnológico
