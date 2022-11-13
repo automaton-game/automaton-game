@@ -1,11 +1,14 @@
-# automaton
+# Automaton
+https://github.com/automaton-game/automaton-game.github.io
 
 ## Objetivo
 Diseñar una plataforma de aprendizaje lúdica donde poder competir programando. Para eso podemos utilizar el atiguo proyecto AutomataNET y mejorarlo:
-Proyecto legacy: [https://github.com/automaton-game/legacy]
+
+<p> Proyecto legacy: <a href="https://github.com/automaton-game/legacy">https://github.com/automaton-game/legacy</a> </p>
 
 ## Planificacion
-Las tareas las gestionamos en proyectos GitHub: [https://github.com/orgs/automaton-game/projects/1]
+
+<p> Las tareas las gestionamos en proyectos GitHub: <a href="https://github.com/orgs/automaton-game/projects/1">https://github.com/orgs/automaton-game/projects/1</a> </p>
 
 ## Casos de uso
 
@@ -29,4 +32,14 @@ Las tareas las gestionamos en proyectos GitHub: [https://github.com/orgs/automat
 - ***GitHub Actions*** Para automatizar los despliegues. [https://github.com/features/actions]
 - ***GitHub Pages*** Para generar documentos de presentación al proyecto. [https://pages.github.com/]
 - ***Azure Portal*** Para gestionar los servicios [https://portal.azure.com/]
+
+## Componentes
+- ***SPA*** https://github.com/automaton-game/spa
+- ***Async Tournament Service*** https://github.com/automaton-game/tournamentService
+- ***BOT Interfaces Package*** https://github.com/automaton-game/bot.interfaces
+- ***BOT Builder Package*** ???
+- ***Tournmament API*** ???
+- ***BOT Wiki*** ???
+- ***BOT Validator API*** ???
+
 
